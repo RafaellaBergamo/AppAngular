@@ -14,6 +14,7 @@ import { MatSidenavModule } from '@angular/material/sidenav';
 import { MatCardModule } from '@angular/material/card';
 import { MatListModule }  from '@angular/material/list';
 import { HomeComponent } from './view/home/home.component';
+import { ProductCrudComponent } from './view/product-crud/product-crud.component';
 
 @NgModule({
   declarations: [
@@ -22,6 +23,7 @@ import { HomeComponent } from './view/home/home.component';
     FooterComponent,
     NavComponent,
     HomeComponent,
+    ProductCrudComponent,
   ],
   imports: [
     BrowserModule,
