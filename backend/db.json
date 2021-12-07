@@ -1,21 +1,19 @@
 {
-    "products": [
-        {
-            "id": 1,
-            "name": "Caneca Simples Branca",
-            "price": 20.00
-        }, 
-        {
-            "id": 2,
-            "name": "Camiseta Avengers Preta",
-            "price": 59.90
-        },
-        {
-            "id": 3,
-            "name": "Almofada Decorativa Diversas",
-            "price": 39.90
-        }
-
-    ]
-       
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneca Simples Branca",
+      "price": 20
+    },
+    {
+      "id": 2,
+      "name": "Camiseta Avengers Preta",
+      "price": 59.9
+    },
+    {
+      "id": 4,
+      "name": "Abajur Decorativo Rosa",
+      "price": 80.00
+    }
+  ]
 }
