@@ -15,6 +15,8 @@ import { MatCardModule } from '@angular/material/card';
 import { MatListModule }  from '@angular/material/list';
 import { HomeComponent } from './view/home/home.component';
 import { ProductCrudComponent } from './view/product-crud/product-crud.component';
+import { ProductCreateComponent } from './components/product/product-create/product-create.component';
+import { RedDirective } from './directives/red.directive';
 
 @NgModule({
   declarations: [
@@ -24,6 +26,8 @@ import { ProductCrudComponent } from './view/product-crud/product-crud.component
     NavComponent,
     HomeComponent,
     ProductCrudComponent,
+    ProductCreateComponent,
+    RedDirective,
   ],
   imports: [
     BrowserModule,
